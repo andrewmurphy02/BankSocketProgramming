@@ -1,1 +1,1 @@
-# BankSocketProgramming
+This python code implements a simple client-server interaction for an ATM application, allowing clients to perform operations like deposit, withdrawal, and balance check on a server-managed account balance using socket programming.
